@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# assignment.io
-=======
+
 # Personal Portfolio Website
 website link : https://sandeepmuthoju.github.io/assets/index.html
 
