@@ -5,6 +5,7 @@ This is a repository for my personal portfolio website, which was created using 
 
 # Installation 🛠️
 website link : https://sandeepmuthoju.github.io/assets/index.html
+
 To view the website, simply open the above mentioned link in browser
 
 # Preview
